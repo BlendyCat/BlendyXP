@@ -1,0 +1,7 @@
+name: BlendyXP
+main: me.blendycat.BlendyXP
+version: 1.0
+commands:
+  xpstore:
+    description: shows all BlendyXP commands
+    usage: /<command>
